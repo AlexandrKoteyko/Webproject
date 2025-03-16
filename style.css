@@ -19,5 +19,5 @@ header {
     padding: 40px;
     align:center;
     margin-top: 10px;
-    
+    justify-content: wrap;
 }
