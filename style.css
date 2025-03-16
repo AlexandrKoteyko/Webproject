@@ -15,9 +15,11 @@ header {
 .project {
     background-color: navy;
     font-size: 40px;
-    color:white;
+    color: white;
     padding: 40px;
-    align:center;
+    text-align: center;
     margin-top: 10px;
-    justify-content: wrap;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
